@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "portfolio",
-    "slug": "portfolio",
+    "name": "Milad Tahanian Portfolio",
+    "slug": "miladtahanianportfolio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
