@@ -1,0 +1,112 @@
+[
+  {
+    "id": "zabannian",
+    "title": "Zabannian: Your Ultimate Dictionary App",
+    "image": "https://s.cafebazaar.ir/images/icons/ir.tahanian.zabannian-c6205730-b8b1-47ce-964c-3ffa66c00e5b_512x512.png",
+    "description": "The innovative dictionary app designed specifically for English learners of all levels! Whether you're a beginner just starting your language journey or an advanced student looking to refine your skills, Zabannian is here to support you every step of the way.",
+    "technologies": ["JavaScript", "TypeScript", "React Native", "Redux","NodeJS","React","NextJS"],
+    "app_store_link": "https://zabannian.ir/",
+    "play_store_link": "https://cafebazaar.ir/app/ir.tahanian.zabannian"
+  },
+  {
+    "id": "2048",
+    "title": "2048 Game",
+    "image": "https://s.cafebazaar.ir/images/icons/ir.tahanian.bistchehelohast-c13cffb3-1434-4ec2-b9b6-86414cddfc9b_512x512.png",
+    "description": "Addictive 2048 game, great time killer, best puzzle game and brain exercise!",
+    "technologies": ["JavaScript", "TypeScript", "React Native","Expo"],
+    "app_store_link": "",
+    "play_store_link": "https://cafebazaar.ir/app/ir.tahanian.bistchehelohast"
+  },
+  {
+    "id": "bmi",
+    "title": "BMI Calculator",
+    "image": "https://s.cafebazaar.ir/images/icons/ir.tahanian.bmicalculator-2d111745-a89f-4cb0-bb7a-38a4e2a55df1_512x512.png",
+    "description": "Body Mass Index calculator gives out the BMI value and categorizes BMI based on provided information from WHO and CDC for both adults and children.",
+    "technologies": ["JavaScript", "TypeScript", "React Native"],
+    "app_store_link": "",
+    "play_store_link": "https://cafebazaar.ir/app/ir.tahanian.bmicalculator"
+  },
+  {
+    "id": "scicalc",
+    "title": "Scientific Calculator",
+    "image": "https://s.cafebazaar.ir/images/icons/ir.tahanian.scientificcalculator-2a0ab72e-760a-4895-a550-18b278a1c879_512x512.png",
+    "description": "A calculator designed to help you calculate science, engineering, and mathematics problems. It has special buttons for parentheses, trigonometric functions, exponents, inverses of trigonometric functions, and π.",
+    "technologies": ["JavaScript", "TypeScript", "React Native"],
+    "app_store_link": "",
+    "play_store_link": "https://cafebazaar.ir/app/ir.tahanian.scientificcalculator"
+  },
+  {
+    "id": "todoapp",
+    "title": "To-Do App",
+    "image": "https://s.cafebazaar.ir/images/icons/ir.tahanian.todo-66e1fc9f-4ff3-4b10-8282-ef19c4483755_512x512.png",
+    "description": "A vertical list of interactive actions or options. It's composed of items presented in a consistent, single-column format, with room for icons, descriptions, side information, and other rich visuals.",
+    "technologies": ["JavaScript", "TypeScript", "React Native"],
+    "app_store_link": "",
+    "play_store_link": "https://cafebazaar.ir/app/ir.tahanian.todo"
+  },
+  {
+    "id": "rpsgame",
+    "title": "Rock Paper Scissors Game",
+    "image": "https://s.cafebazaar.ir/images/icons/ir.tahanian.rpsgame-114bd5d7-79ce-43f8-ac3d-5f57d14e8517_512x512.png",
+    "description": "Rock Paper Scissors is an intransitive hand game, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand.",
+    "technologies": ["JavaScript", "TypeScript", "React Native"],
+    "app_store_link": "",
+    "play_store_link": "https://cafebazaar.ir/app/ir.tahanian.rpsgame"
+  },
+  {
+    "id": "jofteez",
+    "title": "Jofteez - The game of same dices!",
+    "image": "https://s.cafebazaar.ir/images/icons/ir.tahanian.jofteez-ff806376-405b-49c3-b415-1fa9a8a1d74e_512x512.png",
+    "description": "A React Native game which you have to match same selected dices as soon as you can.",
+    "technologies": ["JavaScript", "TypeScript", "React Native"],
+    "app_store_link": "",
+    "play_store_link": "https://cafebazaar.ir/app/ir.tahanian.jofteez"
+  },
+  {
+    "id": "beyadbiar",
+    "title": "Be Yad Biar",
+    "image": "https://s.cafebazaar.ir/images/icons/ir.tahanian.beyadbiar-23b789ed-43a4-4e1d-b18a-e94c90b55ae4_512x512.png",
+    "description": "A React native app which helps you to memorize English Words for Learners.",
+    "technologies": ["JavaScript", "TypeScript", "React Native"],
+    "app_store_link": "",
+    "play_store_link": "https://cafebazaar.ir/app/ir.tahanian.beyadbiar"
+  },
+  {
+    "id": "minesweeper",
+    "title": "Mine Yab",
+    "image": "https://s.cafebazaar.ir/images/icons/ir.tahanian.mineyabgame-09517811-1524-4bab-a32c-d2c80a205d20_512x512.png",
+    "description": "Mine Yab is a Minesweeper. a logic puzzle video game genre. The game features a grid of clickable tiles, with hidden mines scattered throughout the board.",
+    "technologies": ["JavaScript", "TypeScript", "React Native"],
+    "app_store_link": "",
+    "play_store_link": "https://cafebazaar.ir/app/ir.tahanian.mineyabgame"
+  },
+  {
+    "id": "nottie",
+    "title": "Nottie - Professional Notes App",
+    "image": "https://s.cafebazaar.ir/images/icons/ir.tahanian.nottie-b5283748-26ab-4245-9924-55cf53320df0_512x512.png",
+    "description": "With Nottie you have everything you need to keep life organized. Use it for note taking, project planning, and to find what you need, when you need it.",
+    "technologies": ["JavaScript", "TypeScript", "React Native"],
+    "app_store_link": "",
+    "play_store_link": "https://cafebazaar.ir/app/ir.tahanian.nottie"
+  },
+  {
+    "id": "carrun",
+    "title": "Car Run - Endless car game",
+    "image": "https://s.cafebazaar.ir/images/icons/ir.tahanian.carrun-44802c7d-ecce-445e-b77a-c7d13a007876_512x512.png",
+    "description": "Endless car game built using Unity and React Native.Rules are simple. Swipe and get Coins!",
+    "technologies": ["JavaScript", "TypeScript","C#", "React Native","Unity"],
+    "app_store_link": "",
+    "play_store_link": "https://cafebazaar.ir/app/ir.tahanian.carrun"
+  },
+  {
+    "id": "other",
+    "title": "See more Projects On Github",
+    "image": "https://github.blog/wp-content/uploads/2024/07/github-logo.png",
+    "description": "See my other projects on my Github Page",
+    "technologies": [],
+    "app_store_link": "",
+    "play_store_link": "",
+    "github":true,
+    "githubLink":"https://github.com/miladtahanian?tab=repositories"
+  }
+]
